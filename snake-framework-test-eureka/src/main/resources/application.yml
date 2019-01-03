@@ -1,0 +1,8 @@
+spring:
+  profiles:
+    active: dev
+  application:
+    name: snake-framework-test-euraka
+
+server:
+  port: 8970
